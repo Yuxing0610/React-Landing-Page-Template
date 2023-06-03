@@ -1,27 +1,27 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "FLOWS",
+    "paragraph": "The Building Blocks of Reasoning and Collaborative AI"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Flows are modular building blocks that can be combined and composed into interactions of arbitrary complexity in an open-ended way. For example, prompting schemes, agent--agent, agent--tools, even human-agent interactions are special instances of flows that can be composed into more complex ones.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "to be filled",
+      "to be filled",
+      "to be filled",
+      "to be filled"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "to be filled",
+      "to be filled",
+      "to be filled",
+      "to be filled"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
+      "title": "Coding flow",
+      "largeImage": "https://github.com/epfl-dlab/multi-level-reasoning-for-code",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
@@ -131,54 +131,53 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/lab_logo.png",
+      "name": "Martin Josifoski",
+      "job": "Phd student"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/team/lab_logo.png",
+      "name": "Lars Henning Klein",
+      "job": "Phd Student"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/team/lab_logo.png",
+      "name": "Maxime Peyrard",
+      "job": "Phd Student"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/lab_logo.png",
+      "name": "Julian Paul Schnitzler",
+      "job": "Master student"
+    },
+    {
+      "img": "img/team/lab_logo.png",
+      "name": "Yuxing Yao",
+      "job": "Master student"
+    },
+    {
+      "img": "img/team/lab_logo.png",
+      "name": "Debjit Paul",
+      "job": "Postdoc"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
+    "address": "Rte Cantonale, 1015 Lausanne",
     "phone": "+1 123 456 1234",
     "email": "info@company.com",
-    "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "FLOW library",
+      "text": "Fill in later"
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-solid fa-eye",
+      "title": "Visualization Tool",
+      "text": "Fill in later"
     }
   ]
 }

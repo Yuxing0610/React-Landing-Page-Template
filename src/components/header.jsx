@@ -14,10 +14,16 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
-                  href="#features"
+                  href="docs/_build/html/index.html"
                   className="btn btn-custom btn-lg page-scroll"
                 >
-                  Learn More
+                  Quick Start
+                </a>{" "}
+                <a
+                  href="https://github.com/epfl-dlab/multi-level-reasoning-for-code"
+                  className="btn btn-custom btn-lg page-scroll"
+                >
+                  Github repo
                 </a>{" "}
               </div>
             </div>
